@@ -4,7 +4,7 @@
 https://programmers.co.kr/learn/courses/10302
 
 <Contents>
-  1. 그리디(Greedy) 대표 문제: 기지국 설치
+    1. 그리디(Greedy) 대표 문제: 기지국 설치
   
   2. 정렬(Sort) 대표 문제: 가장 큰 수
   
